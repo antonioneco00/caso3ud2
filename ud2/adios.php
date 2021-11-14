@@ -5,6 +5,6 @@
     <title>Segundo php</title>
   </head>
   <body>
-      <?='<h1>Hasta luego desarrollador!!</h1>'?>
+      <?='<h1>Hasta luego desarrollador!!!</h1>'?>
   </body>
 </html>
