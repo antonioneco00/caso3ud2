@@ -27,5 +27,3 @@ $ligaEndesa = [
 // print_r($ligaEndesa);
 
 var_dump($ligaEndesa);
-
-// e
