@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 30px 0;
+}
+
+h3 {
+    margin-bottom: 30px;
+}
+
+a {
+  text-decoration: none;
+  margin: 40px 0;
+}
+
+input {
+    margin: 10px 0;
+}
+
+#container {
+  width: 600px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#formulario {
+    width: 475px;
+    background-color: #86ff86;
+    margin: 0 auto;
+    padding: 25px;
+    border: 5px solid #56a256;
+    border-radius: 30px;
+    box-shadow: 7px 7px 0 #386838;
+}
+
+#formulario form {
+    margin-bottom: 10px;
+}
+
+#container > a {
+    display: block;
+    margin-top: 20px;
+}
+
+table {
+    width: 300px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+table th {
+    background-color: #39aee4;
+}
+
+table td {
+    background-color: #7dd2fa;
+}
+
+#camisetas {
+  background-image: linear-gradient(
+    to right,
+    #314755 0%,
+    #26a0da 51%,
+    #314755 100%
+  );
+  padding: 15px 45px;
+  text-transform: uppercase;
+  transition: background-position 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+}
+
+#camisetas:hover {
+  background-position: right center;
+}
+
+#pantalones {
+  background-image: linear-gradient(
+    to right,
+    #535531 0%,
+    #c8da26 51%,
+    #535531 100%
+  );
+  padding: 15px 45px;
+  text-transform: uppercase;
+  transition: background-position 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+}
+
+#pantalones:hover {
+  background-position: right center;
+}
+
+#zapatillas {
+  background-image: linear-gradient(
+    to right,
+    #553131 0%,
+    #da2626 51%,
+    #553131 100%
+  );
+  padding: 15px 45px;
+  text-transform: uppercase;
+  transition: background-position 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+}
+
+#zapatillas:hover {
+  background-position: right center;
+}
+
+#gorras {
+  background-image: linear-gradient(
+    to right,
+    #395531 0%,
+    #4ada26 51%,
+    #395531 100%
+  );
+  padding: 15px 45px;
+  text-transform: uppercase;
+  transition: background-position 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+}
+
+#gorras:hover {
+  background-position: right center;
+}
+
+#carrito {
+  background-image: linear-gradient(
+    to right,
+    #553150 0%,
+    #da26da 51%,
+    #553131 100%
+  );
+  padding: 15px 45px;
+  text-transform: uppercase;
+  transition: background-position 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+}
+
+#carrito:hover {
+  background-position: right center;
+}
